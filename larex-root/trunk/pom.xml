@@ -88,7 +88,25 @@
     </organization>
 
     <repositories />
+
     <pluginRepositories />
-    <distributionManagement />
+
+    <distributionManagement>
+        <repository>
+            <id>larex-releases</id>
+            <name>Larex Releases Repository</name>
+            <url>dav:https://dav.codehaus.org/repository/larex/</url>
+        </repository>
+        <snapshotRepository>
+            <id>larex-snapshots</id>
+            <name>Larex Snapshots Repository</name>
+            <url>dav:https://dav.codehaus.org/snapshots.repository/larex/</url>
+        </snapshotRepository>
+        <site>
+            <id>larex-website</id>
+            <name>Larex Web Site</name>
+            <url>dav:https://dav.codehaus.org/larex/</url>
+        </site>
+    </distributionManagement>
 
 </project>
