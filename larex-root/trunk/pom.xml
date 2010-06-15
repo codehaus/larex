@@ -193,12 +193,12 @@
         <repository>
             <id>larex-releases</id>
             <name>Larex Releases Repository</name>
-            <url>dav:https://dav.codehaus.org/repository/larex/</url>
+            <url>dav:https://dav.codehaus.org/repository/larex</url>
         </repository>
         <snapshotRepository>
             <id>larex-snapshots</id>
             <name>Larex Snapshots Repository</name>
-            <url>dav:https://dav.codehaus.org/snapshots.repository/larex/</url>
+            <url>dav:https://dav.codehaus.org/snapshots.repository/larex</url>
         </snapshotRepository>
     </distributionManagement>
 
