@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.codehaus.larex</groupId>
     <artifactId>larex-root</artifactId>
-    <version>4-SNAPSHOT</version>
+    <version>4</version>
     <packaging>pom</packaging>
     <name>Larex :: Root</name>
     <description>The Larex Project</description>
@@ -156,9 +156,9 @@
     <dependencyManagement />
 
     <scm>
-        <connection>scm:svn:http://svn.codehaus.org/larex/larex-root/trunk</connection>
-        <developerConnection>scm:svn:https://svn.codehaus.org/larex/larex-root/trunk</developerConnection>
-        <url>http://svn.larex.codehaus.org/browse/larex/larex-root/trunk</url>
+        <connection>scm:svn:http://svn.codehaus.org/larex/larex-root/tags/larex-root-4</connection>
+        <developerConnection>scm:svn:https://svn.codehaus.org/larex/larex-root/tags/larex-root-4</developerConnection>
+        <url>http://svn.larex.codehaus.org/browse/larex/larex-root/tags/larex-root-4</url>
     </scm>
 
     <issueManagement>
